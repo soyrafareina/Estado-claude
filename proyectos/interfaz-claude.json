@@ -1,0 +1,16 @@
+{
+  "proyecto": "Interfaz Claude",
+  "estado": "activo",
+  "resumen": "Panel Torre de control para seguir todos los proyectos de Claude. Cada proyecto escribe su estado en el repo estado-claude y el panel lo lee cada minuto.",
+  "siguiente": "Pegar la instrucción de estado en las instrucciones de cada proyecto de Claude.",
+  "enlace": "https://claude.ai/code/project/chan_01Dzn2jDboNoSnR33SMcCV8i",
+  "actualizado": "2026-11-01T15:25:00Z",
+  "hilos": [
+    {
+      "titulo": "Crear panel de seguimiento de proyectos Claude",
+      "estado": "te-espera",
+      "resumen": "Panel conectado al repo central estado-claude; este archivo es la primera prueba.",
+      "siguiente": "Abrir el panel, dar permiso a GitHub y pegar la instrucción en cada proyecto."
+    }
+  ]
+}
