@@ -1,0 +1,16 @@
+{
+  "proyecto": "CENTRO DE CONTROL",
+  "estado": "activo",
+  "resumen": "Centro de mando de las automatizaciones de Rafa: Centro de contenido, publicador, radar viral y demás piezas. Ahora se automatiza el radar de los domingos y se añaden stories diarias.",
+  "siguiente": "Instalar el Centro de contenido 0.9.5 y dejar programada la tarea del domingo en el PC de Rafa.",
+  "enlace": "https://claude.ai/code/project/chan_01MhQ6iv9UAm6WU9UiCuAaMw",
+  "actualizado": "2026-11-02T14:46:00Z",
+  "hilos": [
+    {
+      "titulo": "Automatizar radar semanal y stories",
+      "estado": "te-espera",
+      "resumen": "Hecha la pestaña Stories (Centro 0.9.5, sin instalar) y el texto de la tarea del domingo: dos radares, un reel para grabar y las stories de la semana.",
+      "siguiente": "Rafa: dar el OK para instalar y confirmar que la pieza del radar sea el reel que graba él."
+    }
+  ]
+}
