@@ -1,16 +1,64 @@
 {
   "proyecto": "CENTRO DE CONTROL",
   "estado": "activo",
-  "resumen": "Centro de mando de las automatizaciones de Rafa: Centro de contenido, publicador, radar viral y demás piezas. Ahora se automatiza el radar de los domingos y se añaden stories diarias.",
-  "siguiente": "Instalar el Centro de contenido 0.9.5 y dejar programada la tarea del domingo en el PC de Rafa.",
+  "resumen": "Centro de mando de las automatizaciones de Rafa: Centro de contenido (0.9.4, la 0.9.5 lista para instalar), publicador 4.4.5, centro de control local con fichas, recolector de facturas y Onboarding de clientes. Ahora se automatiza el radar de los domingos y las stories diarias.",
+  "siguiente": "Instalar el Centro de contenido 0.9.5 y la tarea del domingo; decidir cómo hacer el seguimiento de leads y clientes.",
   "enlace": "https://claude.ai/code/project/chan_01MhQ6iv9UAm6WU9UiCuAaMw",
-  "actualizado": "2026-11-02T14:46:00Z",
+  "actualizado": "2026-11-02T14:52:00Z",
   "hilos": [
     {
       "titulo": "Automatizar radar semanal y stories",
       "estado": "te-espera",
       "resumen": "Hecha la pestaña Stories (Centro 0.9.5, sin instalar) y el texto de la tarea del domingo: dos radares, un reel para grabar y las stories de la semana.",
       "siguiente": "Rafa: dar el OK para instalar y confirmar que la pieza del radar sea el reel que graba él."
+    },
+    {
+      "titulo": "Proponer seguimiento de clientes y leads",
+      "estado": "te-espera",
+      "resumen": "Hay una propuesta para hacer el seguimiento de clientes y leads.",
+      "siguiente": "Rafa: responder en el hilo para decidir el enfoque."
+    },
+    {
+      "titulo": "Proponer proceso de seguimiento de leads",
+      "estado": "te-espera",
+      "resumen": "Propuesta del proceso para seguir los leads que llegan.",
+      "siguiente": "Rafa: responder en el hilo con lo que pide."
+    },
+    {
+      "titulo": "Diseñar pipeline automatizado de contenido",
+      "estado": "revision",
+      "resumen": "Centro de contenido en la versión 0.9.4 y publicador en la 4.4.5.",
+      "siguiente": "Rafa: probar la última versión y decir qué falla o qué sigue."
+    },
+    {
+      "titulo": "Crear centro de control personal",
+      "estado": "revision",
+      "resumen": "Centro de control con fichas (alta, seguimiento, Gestión Negocio, anonimizador, Centro de contenido, recolector, Contasimple, portal, web y Torre de control). Onboarding con pestañas Seguimiento y Solo contrato.",
+      "siguiente": "Rafa: confirmar que la ficha de Contasimple abre bien para borrar los accesos viejos."
+    },
+    {
+      "titulo": "Hacer briefing de todos mis proyectos",
+      "estado": "hecho",
+      "resumen": "Briefing de todos los proyectos entregado: https://claude.ai/artifact/XMPfbm46gC9oAiemq7zDFX",
+      "siguiente": ""
+    },
+    {
+      "titulo": "Revisar hasta cuándo hay contenido preparado",
+      "estado": "hecho",
+      "resumen": "Revisado hasta qué semana hay contenido listo.",
+      "siguiente": ""
+    },
+    {
+      "titulo": "Saber qué piezas están ya publicadas",
+      "estado": "hecho",
+      "resumen": "Comprobado qué piezas están publicadas o programadas.",
+      "siguiente": ""
+    },
+    {
+      "titulo": "Diseñar recolector de facturas mensuales",
+      "estado": "hecho",
+      "resumen": "Recolector de facturas hecho; ya tiene ficha en el centro de control.",
+      "siguiente": ""
     }
   ]
 }
