@@ -1,0 +1,16 @@
+{
+  "proyecto": "Publicador Mujeres",
+  "estado": "activo",
+  "resumen": "Objetivo: que el Publicador haga con la marca Mujeres lo mismo que con Hombres. La app (repo publicar-contenido 4.4.0) ya trae la marca mujeres; falta configurarla.",
+  "siguiente": "Rafa indica la carpeta de semanas de Mujeres, si las cuentas son separadas y si se usan los mismos días y horas.",
+  "enlace": "https://claude.ai/code/project/chan_011cmxHo9ZkpVPGNXxAP5Heg",
+  "actualizado": "2026-11-02T14:47:00Z",
+  "hilos": [
+    {
+      "titulo": "Replicar Publicador Hombres para mujeres",
+      "estado": "te-espera",
+      "resumen": "Revisado el sistema y propuesto el plan: carpeta de Mujeres, lanzador iniciar-mujeres.bat, login de cuentas y prueba en seco.",
+      "siguiente": "Rafa: dime la carpeta de semanas de Mujeres, si son cuentas separadas (Meta, YouTube, TikTok) y si mantienes los mismos días y horas."
+    }
+  ]
+}
