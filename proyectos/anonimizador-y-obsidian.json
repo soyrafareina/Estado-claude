@@ -1,0 +1,22 @@
+{
+  "proyecto": "Anonimizador y obsidian",
+  "estado": "activo",
+  "resumen": "Programa local que anonimiza las transcripciones de clientes (códigos C-001, etiquetas y detección automática de personas, lugares y fechas) antes de pasarlas a Claude. Ya funciona en el PC de Rafa y se abre desde el Centro de control.",
+  "siguiente": "Usarlo en el día a día y decidir cómo llevar las transcripciones anonimizadas a Obsidian.",
+  "enlace": "https://claude.ai/code/project/chan_017qMP5HCtJ3XS2NavUPK93w",
+  "actualizado": "2026-11-02T14:50:00Z",
+  "hilos": [
+    {
+      "titulo": "Anonimizar transcripciones de clientes",
+      "estado": "hecho",
+      "resumen": "Ventana con cliente e ID de Gestión Negocio, tipo y fecha, detección automática y revisión de lo marcado.",
+      "siguiente": "Nada pendiente."
+    },
+    {
+      "titulo": "Actualizar Torre de control",
+      "estado": "hecho",
+      "resumen": "Estado del proyecto publicado en la Torre de control.",
+      "siguiente": "Nada pendiente."
+    }
+  ]
+}
